@@ -8,6 +8,7 @@ namespace getters_setters
         {
             Console.WriteLine("Hello World!");
             //code will go here for Sunday
+            //will start with get set properties
         }
     }
 }
